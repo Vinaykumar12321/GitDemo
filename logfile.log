@@ -1,0 +1,14 @@
+2021-04-10 10:38:18,259 :INFO : pytestdemo.test_logging :information statement
+2021-04-10 10:38:18,260 :WARNING : pytestdemo.test_logging :something is in warning made
+2021-04-10 10:38:18,260 :ERROR : pytestdemo.test_logging :A major error has happend
+2021-04-10 10:38:18,261 :CRITICAL : pytestdemo.test_logging :critical issue
+2021-04-10 10:44:25,236 :DEBUG : pytestdemo.test_logging :A debug statement is executed
+2021-04-10 10:44:25,236 :INFO : pytestdemo.test_logging :information statement
+2021-04-10 10:44:25,236 :WARNING : pytestdemo.test_logging :something is in warning made
+2021-04-10 10:44:25,236 :ERROR : pytestdemo.test_logging :A major error has happend
+2021-04-10 10:44:25,236 :CRITICAL : pytestdemo.test_logging :critical issue
+2021-04-10 11:13:54,107 :DEBUG : pytestdemo.test_logging :A debug statement is executed
+2021-04-10 11:13:54,122 :INFO : pytestdemo.test_logging :information statement
+2021-04-10 11:13:54,122 :WARNING : pytestdemo.test_logging :something is in warning made
+2021-04-10 11:13:54,122 :ERROR : pytestdemo.test_logging :A major error has happend
+2021-04-10 11:13:54,122 :CRITICAL : pytestdemo.test_logging :critical issue
